@@ -124,3 +124,22 @@ License
 This project is licensed under the MIT License.
 
 You can modify the Conn.java section with your actual database connection details and the project URL for the repository once you upload it.
+Attaching the some of the snips of the project
+
+![image](https://github.com/user-attachments/assets/66f2894e-3d87-4734-8d9a-ccdab81cec03)
+
+![image](https://github.com/user-attachments/assets/ccaef0b9-8b7e-4af8-898b-890424559823)
+
+![image](https://github.com/user-attachments/assets/3910e1c7-caf4-4519-8c7a-45d19915d650)
+
+![image](https://github.com/user-attachments/assets/553222b0-1c54-4377-bf1a-b127e82a83eb)
+
+![image](https://github.com/user-attachments/assets/4d015f9a-7b4e-4b51-a2d0-fbc5c3dc0d8c)
+
+![image](https://github.com/user-attachments/assets/f7ab3d58-e064-406c-adb0-6a7b38cc0857)
+
+
+
+
+
+
